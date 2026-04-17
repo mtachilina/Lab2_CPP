@@ -10,4 +10,3 @@ public:
     void solve();
     bool check(double a1, double a2);
 };
-

@@ -136,7 +136,6 @@
     <ClCompile Include="Eq.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Msg.cpp" />
-    <ClCompile Include="Source.cpp" />
     <ClCompile Include="Teacher.cpp" />
   </ItemGroup>
   <ItemGroup>
